@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @codersinghji
+-  i am learn  webdevlopmwnt
+-  i am learn html, css, javascript , react and talwind 
 - 👀 I’m interested in learning C++ language...
 - 🌱 I’m currently learning C language.
 - 💞️ I’m looking to collaborate open AI
